@@ -44,6 +44,12 @@ curl -X POST \
   http://localhost:8080/predict-aqi
   ```
 
+## Determiner les logs
+
+```bash
+docker logs aqi-app
+```
+
 # Stop le container
 
 ```bash
